@@ -1,0 +1,4 @@
+#family_id	sample_id	paternal_id	maternal_id	sex	phenotype	ethnicity
+family1	RS024M-MOTHER	-9	-9	2	1	CEU
+family1	RS024V-FATHER	-9	-9	1	1	CEU
+family1	RS024P-PATIENT	RS024V-FATHER	RS024M-MOTHER	1	2	CEU
